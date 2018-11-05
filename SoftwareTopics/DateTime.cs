@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SoftwareTopics
 {
+    /// <summary>
+    /// In this class i do some excersices with the DateTime function in C#
+    /// </summary>
     class DateTime
     {
         static void Main(string[] args)
