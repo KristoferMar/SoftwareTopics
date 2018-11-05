@@ -1,0 +1,7 @@
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\bin\Debug\SoftwareTopics.exe.config
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\bin\Debug\SoftwareTopics.exe
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\bin\Debug\SoftwareTopics.pdb
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.csprojResolveAssemblyReference.cache
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.csproj.CoreCompileInputs.cache
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.exe
+C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.pdb
