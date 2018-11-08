@@ -43,10 +43,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateTime.cs" />
+    <Compile Include="Interfaces\Car\CarMain.cs" />
+    <Compile Include="Interfaces\Car\IDriveable.cs" />
+    <Compile Include="Interfaces\Television\ICommand.cs" />
+    <Compile Include="Interfaces\Television\IElectronicDevice.cs" />
+    <Compile Include="Interfaces\Car\Vechicle.cs" />
+    <Compile Include="Interfaces\Television\PowerButton.cs" />
+    <Compile Include="Interfaces\Television\Television.cs" />
+    <Compile Include="Interfaces\Television\TVRemote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

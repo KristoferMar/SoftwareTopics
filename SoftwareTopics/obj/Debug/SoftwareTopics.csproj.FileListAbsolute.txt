@@ -5,3 +5,10 @@ C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\Sof
 C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.csproj.CoreCompileInputs.cache
 C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.exe
 C:\Users\kristofer\AppData\Local\Temporary Projects\SoftwareTopics\obj\Debug\SoftwareTopics.pdb
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\obj\Debug\SoftwareTopics.csprojResolveAssemblyReference.cache
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\obj\Debug\SoftwareTopics.csproj.CoreCompileInputs.cache
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\obj\Debug\SoftwareTopics.exe
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\obj\Debug\SoftwareTopics.pdb
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\bin\Debug\SoftwareTopics.exe.config
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\bin\Debug\SoftwareTopics.exe
+C:\Users\kristofer\Source\Repos\SoftwareTopics\SoftwareTopics\bin\Debug\SoftwareTopics.pdb
