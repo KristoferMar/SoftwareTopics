@@ -43,6 +43,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DateTime.cs" />
+    <Compile Include="Delegates\MainProgram.cs" />
+    <Compile Include="Delegates\Photo.cs" />
+    <Compile Include="Delegates\PhotoFilters.cs" />
+    <Compile Include="Delegates\PhotoProcessor.cs" />
+    <Compile Include="Generics\GenericMethods.cs" />
     <Compile Include="Interfaces\Car\CarMain.cs" />
     <Compile Include="Interfaces\Car\IDriveable.cs" />
     <Compile Include="Interfaces\Television\ICommand.cs" />
