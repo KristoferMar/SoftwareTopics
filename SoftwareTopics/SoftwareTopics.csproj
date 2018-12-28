@@ -58,6 +58,7 @@
     <Compile Include="Interfaces\Television\TVRemote.cs" />
     <Compile Include="Lambda Expression\BookRepository.cs" />
     <Compile Include="Lambda Expression\MainProgram.cs" />
+    <Compile Include="ORM-DatabaseAccess\DatabaseAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -23,8 +23,6 @@ namespace SoftwareTopics.Lambda_Expression
                 Console.WriteLine(book.Title);
             }
 
-
-
             //Same task solved with lambda expression using generic Func
             Func<int, int> squareLambda = number => number * number;
             Console.WriteLine(squareLambda(5));
