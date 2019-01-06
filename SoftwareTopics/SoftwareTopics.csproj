@@ -56,6 +56,7 @@
     <Compile Include="Interfaces\Television\PowerButton.cs" />
     <Compile Include="Interfaces\Television\Television.cs" />
     <Compile Include="Interfaces\Television\TVRemote.cs" />
+    <Compile Include="Job Interview tasks\TimeDifference.cs" />
     <Compile Include="Lambda Expression\BookRepository.cs" />
     <Compile Include="Lambda Expression\MainProgram.cs" />
     <Compile Include="ORM-DatabaseAccess\DatabaseAccess.cs" />
