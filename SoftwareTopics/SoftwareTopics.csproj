@@ -47,6 +47,11 @@
     <Compile Include="Delegates\Photo.cs" />
     <Compile Include="Delegates\PhotoFilters.cs" />
     <Compile Include="Delegates\PhotoProcessor.cs" />
+    <Compile Include="Events\MailService.cs" />
+    <Compile Include="Events\MessageService.cs" />
+    <Compile Include="Events\Program.cs" />
+    <Compile Include="Events\Video.cs" />
+    <Compile Include="Events\VideoEncoder.cs" />
     <Compile Include="Generics\GenericMethods.cs" />
     <Compile Include="Interfaces\Car\CarMain.cs" />
     <Compile Include="Interfaces\Car\IDriveable.cs" />

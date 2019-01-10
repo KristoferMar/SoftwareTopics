@@ -11,12 +11,12 @@ namespace SoftwareTopics.Job_Interview_tasks
     //Create a mathod which can tell you the time difference between two time spans.
     class TimeDifference
     {
-        static void Main(string[] args)
-        {
-            TimeDifference td = new TimeDifference();
-            Console.WriteLine(td.TimesBetween("4:20", "3:44"));
-            Console.ReadLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    TimeDifference td = new TimeDifference();
+        //    Console.WriteLine(td.TimesBetween("4:20", "3:44"));
+        //    Console.ReadLine();
+        //}
 
         public string TimesBetween(string timeOne, string timeTwo)
         {
