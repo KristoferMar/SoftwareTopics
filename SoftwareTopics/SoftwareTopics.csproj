@@ -52,6 +52,8 @@
     <Compile Include="Events\Program.cs" />
     <Compile Include="Events\Video.cs" />
     <Compile Include="Events\VideoEncoder.cs" />
+    <Compile Include="Extension Methods\MainProgram.cs" />
+    <Compile Include="Extension Methods\StringExtensions.cs" />
     <Compile Include="Generics\GenericMethods.cs" />
     <Compile Include="Interfaces\Car\CarMain.cs" />
     <Compile Include="Interfaces\Car\IDriveable.cs" />
