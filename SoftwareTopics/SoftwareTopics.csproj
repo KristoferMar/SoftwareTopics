@@ -47,6 +47,7 @@
     <Compile Include="Delegates\Photo.cs" />
     <Compile Include="Delegates\PhotoFilters.cs" />
     <Compile Include="Delegates\PhotoProcessor.cs" />
+    <Compile Include="Dynamics\MainProgram.cs" />
     <Compile Include="Events\MailService.cs" />
     <Compile Include="Events\MessageService.cs" />
     <Compile Include="Events\Program.cs" />
