@@ -53,6 +53,9 @@
     <Compile Include="Events\Program.cs" />
     <Compile Include="Events\Video.cs" />
     <Compile Include="Events\VideoEncoder.cs" />
+    <Compile Include="Exception Handling\Calculator.cs" />
+    <Compile Include="Exception Handling\Program.cs" />
+    <Compile Include="Exception Handling\YouTubeException.cs" />
     <Compile Include="Extension Methods\MainProgram.cs" />
     <Compile Include="Extension Methods\StringExtensions.cs" />
     <Compile Include="Generics\GenericMethods.cs" />
