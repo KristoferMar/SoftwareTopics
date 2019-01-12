@@ -66,6 +66,9 @@
     <Compile Include="Job Interview tasks\TimeDifference.cs" />
     <Compile Include="Lambda Expression\BookRepository.cs" />
     <Compile Include="Lambda Expression\MainProgram.cs" />
+    <Compile Include="LINQ\Book.cs" />
+    <Compile Include="LINQ\BookRepository.cs" />
+    <Compile Include="LINQ\Program.cs" />
     <Compile Include="ORM-DatabaseAccess\DatabaseAccess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
