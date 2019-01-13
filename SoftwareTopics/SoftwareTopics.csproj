@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asynchronous Programming\Program.cs" />
     <Compile Include="DateTime.cs" />
     <Compile Include="Delegates\MainProgram.cs" />
     <Compile Include="Delegates\Photo.cs" />
