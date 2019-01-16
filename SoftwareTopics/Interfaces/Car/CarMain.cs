@@ -8,27 +8,29 @@ namespace SoftwareTopics.Interfaces
 {
     class CarMain
     {
-        //static void Main(String [] args)
-        //{
-        //    Vechicle buick = new Vechicle("Buick", 4, 160);
+        //This would be Main(string[] args)
+        public void MainClass()
+        {
+            Vechicle buick = new Vechicle("Buick", 4, 160);
 
-        //    if(buick is IDriveable)
-        //    {
-        //        buick.Move();
-        //        buick.Stop();
-        //    }else
-        //    {
-        //        Console.WriteLine("the {0} can't be driven", buick.Brand);
-        //    }
+            if (buick is IDriveable)
+            {
+                buick.Move();
+                buick.Stop();
+            }
+            else
+            {
+                Console.WriteLine("the {0} can't be driven", buick.Brand);
+            }
 
-        //    IElectronicDevice TV = TVRemote.GetDevice();
+            IElectronicDevice TV = TVRemote.GetDevice();
 
-        //    PowerButton powBut = new PowerButton(TV);
+            PowerButton powBut = new PowerButton(TV);
 
-        //    powBut.Execute();
-        //    powBut.Undo();
+            powBut.Execute();
+            powBut.Undo();
 
-        //    Console.ReadLine();
-        //}
+            Console.ReadLine();
+        }
     }
 }
