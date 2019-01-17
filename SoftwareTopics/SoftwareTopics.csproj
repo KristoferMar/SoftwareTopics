@@ -68,6 +68,7 @@
     <Compile Include="Interfaces\Television\PowerButton.cs" />
     <Compile Include="Interfaces\Television\Television.cs" />
     <Compile Include="Interfaces\Television\TVRemote.cs" />
+    <Compile Include="Job Interview tasks\CalculateCircumferenceOfCircle.cs" />
     <Compile Include="Job Interview tasks\IntArrayOnlyEvenNumbers.cs" />
     <Compile Include="Job Interview tasks\Palindrome.cs" />
     <Compile Include="Job Interview tasks\TimeDifference.cs" />
