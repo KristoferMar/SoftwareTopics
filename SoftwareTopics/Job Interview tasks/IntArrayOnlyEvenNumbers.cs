@@ -12,7 +12,9 @@ namespace SoftwareTopics.Job_Interview_tasks
     public class IntArrayOnlyEvenNumbers
     {
         //This would be
-        public static void Main(string[] args)
+        //public static void Main(string[] args)
+        //{ 
+        public void MainClass()
         {
             int[] intArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
