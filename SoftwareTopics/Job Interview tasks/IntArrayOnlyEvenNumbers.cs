@@ -20,9 +20,10 @@ namespace SoftwareTopics.Job_Interview_tasks
             Console.ReadLine();
         }
 
-        public static int TotalEvenNumbers(int[] intArray)
+        public static long TotalEvenNumbers(int[] intArray)
         {
-            var intReturn = intArray.Where(i => i % 2 == 0).Sum();
+            //The reason i convert to long is to minimize the chance of overflow exception.
+            var intReturn = intArray.Where(i => i % 2 == 0).Sum(i => (long)i);
 
             return intReturn;
         }
