@@ -26,7 +26,6 @@ namespace SoftwareTopics.Job_Interview_tasks
             return word.ToLower() == reversedString.ToLower() ? true : false;
         }
 
-
         //This would be
         //public static void Main(string[] args)
         //{ 
